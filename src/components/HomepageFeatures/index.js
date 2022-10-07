@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Runbooks',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We've written a number of runbooks designed to help organizers make the
+        most of planning the Devopsdays Chattanooga conference.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'The Big Day',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        In addition to runbooks, you can also see what needs to happen
+        on the Big Day ™️. This way, you can feel confident that the event
+        will go off without a hitch.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Understanding the tools we use',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We use a number of tools and platforms that help us put on
+        Devopsdays Chattanooga successfully. You'll find everything
+        you need to know about them here.
       </>
     ),
   },

@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Devopsdays Chattanooga Docs Site',
+  tagline: 'Everything you need to know about planning the Devopsdays Chattanooga conferences',
+  url: 'https://docs.chattanoogadevopsdays.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'cha-devopsdays', // Usually your GitHub org/user name.
+  projectName: 'chadevops.org', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,21 +57,24 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Devopsdays Chattanooga Docs Site',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Chattanooga Devopsdays Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'welcome',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://devopsdays.org/events/2022-chattanooga/welcome/',
+            label: 'Devopsdays Site',
+            position: 'left'},
+          {
+            href: 'https://github.com/cha-devopsdays/chadevops.org',
             label: 'GitHub',
             position: 'right',
           },
@@ -84,8 +87,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Getting Started',
+                to: '/docs/welcome',
+              },
+              {
+                label: 'Runbooks',
+                to: '/docs/category/runbooks',
               },
             ],
           },
@@ -93,16 +100,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Slack',
+                href: 'https://chadevopsdays.slack.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/devopsdayscha/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/chadevopsdays',
               },
             ],
           },
@@ -120,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Devopsdays Chattanooga. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
