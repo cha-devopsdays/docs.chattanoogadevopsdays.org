@@ -94,6 +94,10 @@ const config = {
                 label: 'Runbooks',
                 to: '/docs/category/runbooks',
               },
+              {
+                label: 'Tools',
+                to: '/docs/tools',
+              },
             ],
           },
           {

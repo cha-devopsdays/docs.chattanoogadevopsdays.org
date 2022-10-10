@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Runbooks',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/open_book.svg').default,
     description: (
       <>
         We've written a number of runbooks designed to help organizers make the
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'The Big Day',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/speech.svg').default,
     description: (
       <>
         In addition to runbooks, you can also see what needs to happen
@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Understanding the tools we use',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/tools.svg').default,
     description: (
       <>
         We use a number of tools and platforms that help us put on
