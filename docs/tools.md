@@ -1,12 +1,12 @@
 ---
-id: tools-we-use
+id: tools
 description: All the tools we use when running the conference.
 title: Tools We Use
 ---
 
 # Overview
 
-This document lists the tools we use to manage the Devopsdays Chattanooga event. You can find most links below. 
+This document lists the tools we use to manage the Devopsdays Chattanooga event. You can find most links below.
 
 * [Trello][trello]
 * [Slack][slack]
