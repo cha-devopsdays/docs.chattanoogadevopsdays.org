@@ -24,12 +24,12 @@ As an organzing committee, there are a number of roles that we fill in order to 
 
 <!--LINKS-->
 
-[finance]: ../finance-committee
-[locals]: ../locals-committee
-[marketing]: ../marketing-committee
-[registration]: ../registration-committee
-[speakers]: ../speakers-committee
-[sponsors]: ../sponsors-committee
-[swag]: ../swag-committee
-[technology]: ../tech-committee
-[volunteers]: ../volunteer-committe
+[finance]: ./finance-committee
+[locals]: ./locals-committee
+[marketing]: ./marketing-committee
+[registration]: ./registration-committee
+[speakers]: ./speaker-committee
+[sponsors]: ./sponsor-committee
+[swag]: ./swag-committee
+[technology]: ./technology-committee
+[volunteers]: ./volunteer-committee
