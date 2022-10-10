@@ -5,7 +5,14 @@ title: Finance Committee
 sidebar_position: 2
 ---
 
-
 # Overview
 
-# Expecatations of committee members
+# Expecatations
+
+## Skills
+
+## Time
+
+# Tasks
+
+# Tools

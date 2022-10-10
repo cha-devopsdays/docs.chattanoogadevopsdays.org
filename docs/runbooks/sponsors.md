@@ -7,8 +7,23 @@ sidebar_position: 7
 
 # Overview
 
-# Expecatations of committee members
+# Expecatations
 
-# Sponsor levels
 
-# Communication & expectations
+## Skills
+
+## Time
+
+# Works with
+
+* Marketing committee
+* Finance committee
+
+# Tasks
+
+* Solicit sponsors
+* Serve as liaison between sponsors & ChaTech
+
+# Tools
+
+* Gmail

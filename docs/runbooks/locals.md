@@ -7,5 +7,12 @@ sidebar_position: 3
 
 # Overview
 
-# Expecatations of committee members
+# Expecatations
 
+## Skills
+
+## Time
+
+# Tasks
+
+# Tools
