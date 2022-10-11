@@ -21,6 +21,14 @@ As an organzing committee, there are a number of roles that we fill in order to 
 
 # Expecatations of committee members
 
+## Time
+
+First and foremost, we recognize that all organizers have lives and jobs outside of organizing Devopsdays Chattanooga. 
+
+## Communication
+
+
+
 
 <!--LINKS-->
 
