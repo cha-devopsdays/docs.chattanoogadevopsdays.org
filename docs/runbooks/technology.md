@@ -7,11 +7,11 @@ tags: [Moderate time committment,]
 
 ---
 
-# Overview
+## Overview
 
-# Expecatations
+## Expecatations
 
-## Skills
+### Skills
 
 * You should be familiar with Github and the process of using Git to make changes to a thing (e.g, pull requests, merging, etc.)
 * Familiarity with using/administering Slack
@@ -20,14 +20,16 @@ tags: [Moderate time committment,]
 
 Time spent on the tech committee can vary pretty widely from week to week. Generally, you should expect to spend 1-2 hours a week on tech committee tasks.
 
-# Tasks
+## Works with
+
+## Tasks
 
 * Make Devopsdays website updates
 * Maintain this site
 * Communicate with Devopsdays core team members when onboarding new members
 * Administer our Slack instance
 
-# Tools
+## Tools
 
 * Github
 * Your code editor of choice

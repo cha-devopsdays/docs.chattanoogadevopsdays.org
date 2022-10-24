@@ -5,11 +5,11 @@ title: Onboarding new members
 sidebar_position: 5
 ---
 
-# Overview
+## Overview
 
 This document describes how we onboard new members to help organize Devopsdays Chattanooga.
 
-#  Getting started
+##  Getting started
 
 Welcome to the Devopsdays Chattanooga organizing team! We're excited to have you on board. To get started, you'll need to head over to our [Slack][slack] channel. Once you're in Slack, you'll be invited to #organizing-planning, where most of our communication takes place.
 

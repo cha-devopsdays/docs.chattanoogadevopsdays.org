@@ -6,7 +6,7 @@ sidebar_position: 6
 tags: [High time committment,]
 ---
 
-# Overview
+## Overview
 
 The speaker committe is responsonsible for identifying keynote speakers, as well as soliciting CFPs (calls for proposals) for the event. There are a total of 14 speaking spots to fill for the single day event:
 
@@ -18,15 +18,15 @@ The speaker committe is responsonsible for identifying keynote speakers, as well
 
 As well as building the program for the event.
 
-# Expecatations
+## Expecatations
 
 This committee depends on clear, concise and timely communication within the broader organizing team and with the speakers.
 
-## Skills
+### Skills
 
 * You should be familiar with Sessionize, or at least have poked around enough to know how to use the tool.
 
-## Time
+### Time
 
 This committee requires a high level of time committment:
 
@@ -35,18 +35,18 @@ This committee requires a high level of time committment:
 * Building the event program (2-4 hours)
 * Communicating with speakers over the event's lifecycle (1-2 hours/week)
 
-# Works with
+## Works with
 
 * Marketing committee
 * Finance committee
 
-# Tasks
+## Tasks
 
 * Configure CFP page in Sessionize
 * Identify list of evaluators to evaluate speaker CFPs
 * Identify opening and closing keynote speakers
 
-# Tools
+## Tools
 
 * Gmail
 * Sessionize

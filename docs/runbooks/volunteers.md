@@ -7,18 +7,15 @@ tags: [Low time committment,]
 
 ---
 
-# Overview
+## Overview
 
-# Expecatations
+## Expecatations
 
-## Skills
+### Skills
 
+### Time
 
-## Time
+## Tasks
 
-
-# Tasks
-
-
-# Tools
+## Tools
 

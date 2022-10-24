@@ -7,17 +7,16 @@ tags: [Moderate time committment,]
 
 ---
 
-# Overview
+## Overview
 
-# Expecatations
+## Expecatations
 
-## Skills
+### Skills
 
-## Time
+### Time
 
-# Works with
+## Works with
 
+## Tasks
 
-# Tasks
-
-# Tools
+## Tools

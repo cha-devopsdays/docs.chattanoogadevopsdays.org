@@ -4,8 +4,8 @@ title: Contributing to this site
 sidebar_position: 5
 ---
 
-# Overview
+## Overview
 
-# Configuration
+## Configuration
 
-# Additional resources
+## Additional resources

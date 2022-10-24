@@ -7,11 +7,11 @@ tags: [High time committment,]
 
 ---
 
-# Overview
+## Overview
 
 The sponsor committee is responsible for funding Devopsdays Chattanooga's operational expenses.
 
-# Expecatations
+## Expecatations
 
 Given that this committee is responsible for ensuring the event is funded, expectations are naturally high. Much of the time spent in this role will be identifying and emailing sponsors. This includes:
 
@@ -19,11 +19,11 @@ Given that this committee is responsible for ensuring the event is funded, expec
 * Thanking the sponsors and sending them a "Thank you" email that outlines what we need from them
 * Facilitating communication with the finance committee
 
-## Skills
+### Skills
 
 * Impeccable communication
 
-## Time
+### Time
 
 * 2-4 hours weekly soliciting sponsors
 * 1-2 hours editing sponsor communications
@@ -31,20 +31,20 @@ Given that this committee is responsible for ensuring the event is funded, expec
 * 2-4 hours on day of event as a point person for sponsors
 * 1-2 hours weekly on administrative tasks (keeping the spreadsheet updated, etc.)
 
-# Works with
+## Works with
 
 * Marketing committee
 * Finance committee
 * Registration committee
 
-# Tasks
+## Tasks
 
 * Solicit sponsors
 * Serve as liaison between sponsors & ChaTech
 * Work with tech committee to generate discounts
 * Serve as point person(s) the day of the event
 
-# Tools
+## Tools
 
 * Gmail
 

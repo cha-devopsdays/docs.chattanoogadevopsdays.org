@@ -6,21 +6,21 @@ sidebar_position: 4
 tags: [High time committment,]
 ---
 
-# Overview
+## Overview
 
-# Expecatations
+## Expecatations
 
-## Skills
+### Skills
 
-## Time
+### Time
 
-# Works with
+## Works with
 
 * Sponsor committee
 * Speaker committee
 * Tech committee
 * Finances committee
 
-# Tasks
+## Tasks
 
-# Tools
+## Tools

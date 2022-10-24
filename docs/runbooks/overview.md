@@ -5,7 +5,7 @@ title: Overview
 sidebar_position: 1
 ---
 
-# Overview
+## Overview
 
 As an organzing committee, there are a number of roles that we fill in order to make Devopsdays Chattanooga a great event. These roles are split out into committees:
 
@@ -19,9 +19,9 @@ As an organzing committee, there are a number of roles that we fill in order to 
 * [Technology][technology] (how we get updates on the Devopsdays website)
 * [Volunteers][volunteers] (how we partner with volunteers)
 
-# Expecatations of committee members
+## Expecatations of committee members
 
-## Time
+### Time
 
 First and foremost, we recognize that all organizers have lives and jobs outside of organizing Devopsdays Chattanooga. That said, we expect our organizers to be present and active when we meet.
 
@@ -32,7 +32,7 @@ Time involvement varies by committee, but we do meet on a regular cadence:
 
 For more information about the time involved with each committee, refer to that committee's page.
 
-## Communication
+### Communication
 
 We also expect that our organizers practice frequent communication. We use Slack as our primary channel for internal communication, and email as our primary channel for communicating externally (e.g., with vendors, sponsors and attendees).
 
