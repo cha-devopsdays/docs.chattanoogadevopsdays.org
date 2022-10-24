@@ -14,6 +14,7 @@ This document lists the tools we use to manage the Devopsdays Chattanooga event.
 * Sessionize
 * [Google Docs][google-docs]
 * [Github][github]
+* Email (whatever client you decide to use)
 
 <!--LINKS-->
 [google-docs]: https://drive.google.com/drive/folders/1ZCXw8Xyfq-i4FRCdvzX87STU-WovZugr
