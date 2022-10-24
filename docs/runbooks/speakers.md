@@ -3,6 +3,7 @@ id: speaker-committee
 description: Everything you need to know as a member of the speaker committee
 title: Speaker Committee
 sidebar_position: 6
+tags: [High time committment,]
 ---
 
 # Overview
@@ -23,11 +24,16 @@ This committee depends on clear, concise and timely communication within the bro
 
 ## Skills
 
-* You should be familiar with Sessionize, or at least have poked around enough to know how to use the tool
+* You should be familiar with Sessionize, or at least have poked around enough to know how to use the tool.
 
 ## Time
 
-This committee requires quite a bit of time once
+This committee requires a high level of time committment:
+
+* Initial Sessionize configuration (2 hours)
+* Selecting evaluation committee (2 hours)
+* Building the event program (2-4 hours)
+* Communicating with speakers over the event's lifecycle (1-2 hours/week)
 
 # Works with
 
