@@ -1,4 +1,7 @@
 ---
+id: welcome
+description: Welcome to all things Devopsdays Chattanooga
+title: Welcome
 sidebar_position: 1
 ---
 
