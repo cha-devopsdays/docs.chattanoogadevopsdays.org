@@ -1,7 +1,7 @@
 ---
 id: tools
 description: All the tools we use when running the conference.
-title: Tools We Use
+title: Tools we use
 ---
 
 ## Overview

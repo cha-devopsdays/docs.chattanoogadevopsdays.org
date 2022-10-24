@@ -1,7 +1,7 @@
 ---
 id: technology-committee
 description: Everything you need to know about managing Devopsdays Chattanooga's technology
-title: Technology Committee
+title: Technology committee
 sidebar_position: 9
 tags: [Moderate time committment,]
 
