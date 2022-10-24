@@ -14,6 +14,13 @@ tags: [High time committment,]
 
 ## Time
 
+# Works with
+
+* Sponsor committee
+* Speaker committee
+* Tech committee
+* Finances committee
+
 # Tasks
 
 # Tools

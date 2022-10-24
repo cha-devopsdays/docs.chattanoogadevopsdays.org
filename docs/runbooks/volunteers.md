@@ -9,4 +9,16 @@ tags: [Low time committment,]
 
 # Overview
 
-# Expecatations of committee members
+# Expecatations
+
+## Skills
+
+
+## Time
+
+
+# Tasks
+
+
+# Tools
+

@@ -13,6 +13,9 @@ If you're a new committee member, you'll want to start off by reviewing our [onb
 
 :::
 
+If you're a returning organizing member, we recommend starting off with the [Runbooks][runbooks]. These are the canonical documents that we use to guide each committee.
+
 
 <!--LINKS-->
 [onboarding]: onboarding
+[runbooks]: ./category/runbooks
