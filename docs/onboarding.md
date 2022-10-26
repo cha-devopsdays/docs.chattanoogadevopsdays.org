@@ -25,7 +25,7 @@ You'll also want to review the ["Overview"][overview] page under our runbooks an
 
 
 [slack]: https://slack.chattanoogadevopsdays.com
-[overview]: ./runbooks/overview
+[overview]: ./overview
 
 
 
