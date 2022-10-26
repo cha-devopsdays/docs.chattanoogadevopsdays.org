@@ -30,12 +30,12 @@ Before you dive into running the event, it's recommended that you start here. Th
 | [Volunteers][volunteers]   | How we partner with volunteers  |
 
 <!--LINKS-->
-[finance]: ../category/finance-committee
-[locals]: ../category/locals-committee
-[marketing]: ../category/marketing-committee
-[registration]: ../category/registration-committee
-[speakers]: ../category/speaker-committee
-[sponsors]: ../category/sponsor-committee
-[swag]: ../category/swag-committee
-[technology]: ../category/technology-committee
-[volunteers]: ../category/volunteer-committee
+[finance]: ../category/finance
+[locals]: ../category/locals
+[marketing]: ../category/marketing
+[registration]: ../category/registration
+[speakers]: ../category/speaker
+[sponsors]: ../category/sponsor
+[swag]: ../category/swag
+[technology]: ../category/technology
+[volunteers]: ../category/volunteer
