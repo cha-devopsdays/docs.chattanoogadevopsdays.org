@@ -13,6 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  noIndex: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -56,6 +57,27 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '8ANZ6LYOKJ',
+
+        // Public API key: it is safe to commit it
+        apiKey: '739c1eb053427e8514a65474dad2853e',
+
+        indexName: 'prod_chaDoD',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+
+        //... other Algolia params
+      },
       navbar: {
         title: 'Devopsdays Chattanooga Docs Site',
         logo: {
