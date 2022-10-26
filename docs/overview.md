@@ -54,6 +54,10 @@ The lack of communication can seriously impact the organizing team's ability to 
 * If you're having trouble, or need input from the team, let us know--we're here to help and we succeed as a team
 
 
+### Cross-committee processes
+
+#### Spending money
+
 <!--LINKS-->
 
 [finance]: ./category/finance-committee

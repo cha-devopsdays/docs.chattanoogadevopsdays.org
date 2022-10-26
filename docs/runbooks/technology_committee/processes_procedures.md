@@ -6,3 +6,9 @@ sidebar_position: 2
 tags: ["process"]
 
 ---
+
+## Setting up the Devopsdays Chattanooga devopsdays site
+
+## Administering the Devopsdays Chattanooga Slack channel
+
+## Administering the Docs site

@@ -7,3 +7,11 @@ tags: ["process"]
 
 
 ---
+
+### Locking in the Venue
+
+### Securing room blocks
+
+### Purchasing speaker gifts
+
+### Identifying and selecting a speaker dinner location

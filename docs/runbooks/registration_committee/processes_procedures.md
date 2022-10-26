@@ -6,3 +6,12 @@ sidebar_position: 2
 tags: ["process"]
 
 ---
+
+
+## Refunds
+
+## Setting up Tito
+
+## Reporting on registrations
+
+## Configuring discount codes

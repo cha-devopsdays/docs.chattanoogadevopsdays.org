@@ -6,3 +6,5 @@ sidebar_position: 2
 tags: ["process"]
 
 ---
+
+## Setting up Sessionize
