@@ -49,12 +49,12 @@ The lack of communication can seriously impact the organizing team's ability to 
 
 <!--LINKS-->
 
-[finance]: ./finance-committee
-[locals]: ./locals-committee
-[marketing]: ./marketing-committee
-[registration]: ./registration-committee
-[speakers]: ./speaker-committee
-[sponsors]: ./sponsor-committee
-[swag]: ./swag-committee
-[technology]: ./technology-committee
-[volunteers]: ./volunteer-committee
+[finance]: ./category/finance-committee
+[locals]: ./category/locals-committee
+[marketing]: ./category/marketing-committee
+[registration]: ./category/registration-committee
+[speakers]: ./category/speaker-committee
+[sponsors]: ./category/sponsor-committee
+[swag]: ./category/swag-committee
+[technology]: ./category/technology-committee
+[volunteers]: ./category/volunteer-committee
