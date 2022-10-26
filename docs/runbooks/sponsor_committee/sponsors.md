@@ -11,6 +11,9 @@ tags: [High time committment,"process"]
 
 The sponsor committee is responsible for funding Devopsdays Chattanooga's operational expenses.
 
+## Number of members
+
+
 ## Expecatations
 
 Given that this committee is responsible for ensuring the event is funded, expectations are naturally high. Much of the time spent in this role will be identifying and emailing sponsors. This includes:

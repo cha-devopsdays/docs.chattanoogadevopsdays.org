@@ -18,6 +18,9 @@ The speaker committe is responsonsible for identifying keynote speakers, as well
 
 As well as building the program for the event.
 
+## Number of members
+
+
 ## Expecatations
 
 This committee depends on clear, concise and timely communication within the broader organizing team and with the speakers.

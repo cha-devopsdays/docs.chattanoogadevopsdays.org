@@ -12,13 +12,15 @@ Before you dive into running the event, it's recommended that you start here. Th
 
 ## Getting started
 
-### Organizing committees and roles
+### Organizing roles and committees
 
 | Role  | Description  |
 |---|---|
-| Organizing Lead  |   |
-| Committee chair (aka "Primary") |   |
-| Committee co-chair (aka "Secondary")  |   |
+| Organizing Lead  | This individual essentially functions as the project manager for the event |
+| Committee co-chair | Committee co-chairs are responsible for executing tasks within a functional area (e.g., technology, volunteers)  |
+
+| Committee name  | Description  |
+|---|---|
 | [Finance][finance]  | How we fund, spend and account money for the conference  |
 | [Locals][locals]   | How we do partner with local vendors  |
 | [Marketing][marketing]   | How we market the event  |
@@ -28,6 +30,28 @@ Before you dive into running the event, it's recommended that you start here. Th
 | [Swag][swag]  |  How we get conference swag |
 | [Technology][technology]  | How we administer the tech Devopsdays Chattanooga uses  |
 | [Volunteers][volunteers]   | How we partner with volunteers  |
+
+### Event "order of operations"
+
+There's an order of operations that has to happen in sequence in order to _start_ the process for launching an event:
+
+1. An initial organizer communication to determine who will be involved
+2. An initial organizer meeting to start divvying up responsibilities
+3. Technology committee members set up and configure:
+    1. Devopsdays site
+    2. Trello board
+    3. Google Drive folder
+    4. Work with the Devopsdays Core Team to add any new members to the email distribution list & global Slack channel
+4. Establish a regular meeting cadence
+
+Once these initial tasks are complete, everything generally flows along with the timeline in the ["Dates & deadlines"][timeline] doc.
+
+:::note
+
+The more that you can frontload tasks and ensure that they're in Trello, the easier it is later in the event planning process.
+
+:::
+
 
 <!--LINKS-->
 [finance]: ../category/finance
@@ -39,3 +63,4 @@ Before you dive into running the event, it's recommended that you start here. Th
 [swag]: ../category/swag
 [technology]: ../category/technology
 [volunteers]: ../category/volunteer
+[timeline]: ../dates-and-deadlines

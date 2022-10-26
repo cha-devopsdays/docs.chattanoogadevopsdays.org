@@ -37,10 +37,10 @@ First and foremost, we recognize that all organizers have lives and jobs outside
 
 Time involvement varies by committee, but we do meet on a regular cadence:
 
-* 1 in-person/virtual meeting per month until the last 2 months leading up to the conference
-* 1 in-person/virtual meeting per week during the last 2 months leading up to the conference
+* 1 in-person/virtual meeting per month until the last 2 months leading up to the conference (1 hour meetings)
+* 1 in-person/virtual meeting per week during the last 2 months leading up to the conference (1 hour meetings)
 
-For more information about the time involved with each committee, refer to that committee's page.
+For more information about the time involved with each committee, refer to that [committee's runbook collection][runbooks].
 
 ### Communication
 
@@ -52,9 +52,6 @@ The lack of communication can seriously impact the organizing team's ability to 
 * Check in on Slack ***regularly***--we don't expect that you'll respond to every notification on Slack, but you should be aware of what's going on
 * If you're going to miss a meeting, or can't fulfill a role, please let the rest of the organizing team know as early as possible
 * If you're having trouble, or need input from the team, let us know--we're here to help and we succeed as a team
-
-
-
 
 
 <!--LINKS-->

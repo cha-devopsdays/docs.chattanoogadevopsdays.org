@@ -16,6 +16,8 @@ The registration committee oversees two critical elements of the conference:
 
 There's a lot that goes into initially setting up the event in Tito and a lot on the day of the conference. This document will cover everything you need to know about getting the event set up in Tito (our registration platform) and handling attendee sign in.
 
+## Number of members
+
 ## Expecatations
 
 ### Skills
