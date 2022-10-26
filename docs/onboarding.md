@@ -3,6 +3,8 @@ id: onboarding
 description: How we onboard new organizing members
 title: Onboarding new organizers
 sidebar_position: 5
+tags: ["people"]
+
 ---
 
 ## Overview

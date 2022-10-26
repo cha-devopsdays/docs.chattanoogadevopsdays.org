@@ -1,9 +1,9 @@
 ---
 id: speaker-committee
 description: Everything you need to know as a member of the speaker committee
-title: Committee overview
+title: Speaker committee overview
 sidebar_position: 1
-tags: [High time committment,]
+tags: ["High time committment","process"]
 ---
 
 ## Overview

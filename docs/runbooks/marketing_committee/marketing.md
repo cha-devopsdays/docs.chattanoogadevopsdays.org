@@ -1,9 +1,10 @@
 ---
 id: marketing-committee
 description: Everything you need to know as a member of the marketing committee
-title: Committee overview
+title: Marketing committee overview
 sidebar_position: 1
-tags: [High time committment,]
+tags: ["High time committment","process"]
+
 ---
 
 ## Overview

@@ -2,6 +2,7 @@
 id: tools
 description: All the tools we use when running the conference.
 title: Tools we use
+tags: ["technology"]
 ---
 
 ## Overview

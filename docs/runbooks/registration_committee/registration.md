@@ -1,9 +1,9 @@
 ---
 id: registration-committee
 description: Everything you need to know as a member of the registration committee
-title: Committee overview
+title: Registration committee overview
 sidebar_position: 1
-tags: [Moderate time committment,]
+tags: ["Moderate time committment","process"]
 
 ---
 

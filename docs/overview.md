@@ -3,11 +3,31 @@ id: overview
 description: An overview of the things we do.
 title: Overview
 sidebar_position: 2
+tags: ["people","process"]
 ---
 
 ## Overview
 
+Over the last 3 events, we've discovered a number of things that we wish we would have known when we started organizing Devopsdays Chattanooga. The goal of this entire site is to provide guidance and structure to the broader organizing committee, as well as the various subcommittees and roles that emerge as a part of putting on the conference.
 
+### How to use this site
+
+Broadly, this site covers 3 overall topics:
+
+* [People][people-tag]
+* [Process][process-tag]
+* [Technology][technology-tag]
+
+If you're looking for a people
+
+However, this event tends to be process-heavy with the aim of making Devopsdays Chattanooga happen as smoothly as possible. The bulk of each subcomitttee's processes are in the following 2 locations:
+
+* [The runbooks][runbooks]
+* [Conference day][conference-day]
+
+These two sections are generally organized by each subcommittee's function (e.g., Finance, Marketing, etc.), so for any questions that pertain to a specific committee, explore its respective runbook collection.
+
+For any o
 
 ## Expecatations of committee members
 
@@ -48,3 +68,9 @@ The lack of communication can seriously impact the organizing team's ability to 
 [swag]: ./category/swag-committee
 [technology]: ./category/technology-committee
 [volunteers]: ./category/volunteer-committee
+[welcome]: ./welcome
+[runbooks]: ./category/runbooks
+[conference-day]: ./category/conference-day
+[technology-tag]: ./tags/technology
+[process-tag]: ./tags/process
+[people-tag]: ./tags/people
