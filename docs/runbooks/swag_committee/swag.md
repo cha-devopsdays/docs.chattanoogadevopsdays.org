@@ -1,8 +1,8 @@
 ---
 id: swag-committee
 description: Everything you need to know as a member of the swag committee
-title: Swag committee
-sidebar_position: 8
+title: Committee overview
+sidebar_position: 1
 tags: [Moderate time committment,]
 
 ---

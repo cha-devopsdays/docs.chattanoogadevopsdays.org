@@ -1,8 +1,8 @@
 ---
 id: sponsor-committee
 description: Everything you need to know as a member of the sponsor committee
-title: Sponsor committee
-sidebar_position: 7
+title: Committee overview
+sidebar_position: 1
 tags: [High time committment,]
 
 ---

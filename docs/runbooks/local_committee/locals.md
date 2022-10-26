@@ -1,8 +1,8 @@
 ---
 id: locals-committee
 description: Everything you need to know as a member of the local committee
-title: Local committee
-sidebar_position: 3
+title: Committee overview
+sidebar_position: 1
 tags: [Moderate time committment,]
 
 ---
