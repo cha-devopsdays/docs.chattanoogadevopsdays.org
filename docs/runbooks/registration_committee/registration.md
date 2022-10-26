@@ -1,6 +1,6 @@
 ---
 id: registration-committee
-description: Everything you need to know as a member of the marketing committee
+description: Everything you need to know as a member of the registration committee
 title: Ticketing & registration
 sidebar_position: 5
 tags: [Moderate time committment,]

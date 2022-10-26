@@ -1,5 +1,5 @@
 ---
-description: Everything you need to know as a member of the sponsor committee
+description: How to contribute to the Devopsdays Chattanooga docs site
 title: Contributing to this site
 sidebar_position: 5
 ---

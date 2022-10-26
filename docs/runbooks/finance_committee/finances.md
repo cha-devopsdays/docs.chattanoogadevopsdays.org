@@ -9,11 +9,15 @@ tags: [High time committment,]
 
 ## Overview
 
+## Number of members
+
 ## Expecatations
 
 ### Skills
 
 ### Time
+
+## Dates & deadlines
 
 ## Works with
 

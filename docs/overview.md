@@ -2,7 +2,7 @@
 id: overview
 description: An overview of the things we do.
 title: Overview
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 ## Overview
