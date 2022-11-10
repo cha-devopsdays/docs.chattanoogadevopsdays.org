@@ -3,7 +3,7 @@ id: technology-committee
 description: Everything you need to know about managing Devopsdays Chattanooga's technology
 title: Technology committee overview
 sidebar_position: 1
-tags: ["Moderate time committment","process"]
+tags: ["Moderate time commitment","process"]
 
 ---
 
@@ -12,7 +12,7 @@ tags: ["Moderate time committment","process"]
 ## Number of members
 
 
-## Expecatations
+## Expectations
 
 ### Skills
 

@@ -3,7 +3,7 @@ id: speaker-committee
 description: Everything you need to know as a member of the speaker committee
 title: Speaker committee overview
 sidebar_position: 1
-tags: ["High time committment","process"]
+tags: ["High time commitment","process"]
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ As well as building the program for the event.
 ## Number of members
 
 
-## Expecatations
+## Expectations
 
 This committee depends on clear, concise and timely communication within the broader organizing team and with the speakers.
 
@@ -31,7 +31,7 @@ This committee depends on clear, concise and timely communication within the bro
 
 ### Time
 
-This committee requires a high level of time committment:
+This committee requires a high level of time commitment:
 
 * Initial Sessionize configuration (2 hours)
 * Selecting evaluation committee (2 hours)

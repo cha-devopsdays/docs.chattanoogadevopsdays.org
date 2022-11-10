@@ -3,7 +3,7 @@ id: sponsor-committee
 description: Everything you need to know as a member of the sponsor committee
 title: Sponsor committee overview
 sidebar_position: 1
-tags: [High time committment,"process"]
+tags: [High time commitment,"process"]
 
 ---
 
@@ -14,7 +14,7 @@ The sponsor committee is responsible for funding Devopsdays Chattanooga's operat
 ## Number of members
 
 
-## Expecatations
+## Expectations
 
 Given that this committee is responsible for ensuring the event is funded, expectations are naturally high. Much of the time spent in this role will be identifying and emailing sponsors. This includes:
 

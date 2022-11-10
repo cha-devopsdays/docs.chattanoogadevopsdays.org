@@ -3,7 +3,7 @@ id: registration-committee
 description: Everything you need to know as a member of the registration committee
 title: Registration committee overview
 sidebar_position: 1
-tags: ["Moderate time committment","process"]
+tags: ["Moderate time commitment","process"]
 
 ---
 
@@ -18,7 +18,7 @@ There's a lot that goes into initially setting up the event in Tito and a lot on
 
 ## Number of members
 
-## Expecatations
+## Expectations
 
 ### Skills
 

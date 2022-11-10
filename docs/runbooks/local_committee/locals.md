@@ -3,7 +3,7 @@ id: locals-committee
 description: Everything you need to know as a member of the local committee
 title: Committee overview
 sidebar_position: 1
-tags: ["Moderate time committment","process"]
+tags: ["Moderate time commitment","process"]
 
 ---
 
@@ -11,7 +11,7 @@ tags: ["Moderate time committment","process"]
 
 ## Number of members
 
-## Expecatations
+## Expectations
 
 ### Skills
 
